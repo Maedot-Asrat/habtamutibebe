@@ -1,0 +1,13 @@
+/node_modules
+/vendor
+/public/storage
+/storage/*.key
+/storage/framework/*
+/storage/logs/*
+/bootstrap/cache/*
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
